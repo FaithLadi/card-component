@@ -95,7 +95,7 @@
 
   
   .card-img-right {
-    background-image: url(./images/image-header-mobile.jpg);
+    background-image: url(../images/image-header-mobile.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -162,7 +162,7 @@
         }
 
         .card-img-right {
-          background-image: url(./images/image-header-desktop.jpg);
+          background-image: url(../images/image-header-desktop.jpg);
           background-position: center;
           background-size: cover;
           background-repeat: no-repeat;
